@@ -38,7 +38,7 @@ public class SignUp extends AppCompatActivity {
     private TextView textPassword;
     private TextView textRePassword;
     private TextView textGmail;
-    private  LoginDataScoure loginDataScoure;
+    private LoginDataScoure loginDataScoure;
     private Button btnBack;
 
     private ArrayAdapter adapter;

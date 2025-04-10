@@ -8,7 +8,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textSize="20dp"
-        android:text="Hệ Thống Quản Lý Truyện Nhóm 8"></TextView>
+        android:text="Hệ Thống Quản Lý Truyện"></TextView>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

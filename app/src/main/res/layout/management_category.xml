@@ -13,7 +13,7 @@
         android:background="#4D4B4E"
         app:titleTextColor="@color/white"
         app:layout_scrollFlags="scroll|enterAlways"
-        app:title="FreeTruyen" />
+        app:title="OUTruyen" />
 
     <TextView
         android:layout_marginTop="20sp"
